@@ -1,0 +1,2 @@
+# simple-calculator
+A simple command-line calculator implemented in Python.
